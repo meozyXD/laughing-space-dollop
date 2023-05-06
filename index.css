@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.body{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color:cyan;
+}
+.header{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    background-color:white;
+}
+.brand{
+    width: 100%;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+}
+.mid{
+    width: 100%;
+    height: 100%;
+    
+    align-items: center;
+    justify-content: center;
+}
+p{
+    color: white;
+    font-family: 'Zeyada', cursive;
+    font-size: 30px;
+}
+.valorant{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.main{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.home{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.creation{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.information{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.HAHA{
+    width: 10%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.mng{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pf{
+    width: 10%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.PH{
+    width: 10%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#goyshu{
+    width: 100%;
+    height: 100vh;
+}
+.corner{
+    width: 100%;
+    height: 100%;
+}
+.contact{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.coco{
+    width: 100%;
+    height: 100%;
+}
+#BORO{
+    width: 48%;
+    height: 100%;
+}
+.boroo{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#baka{
+    width: 80%;
+    height: 80%;
+}
+.chi{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#buvar{
+    width: 100%;
+    height: 100%;
+}
+.mogjoohon{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#japan{
+    width: 100%;
+    height: 100%;
+}
+.mojuh{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#bongo{
+    width: 100%;
+    height: 100%;
+}
+#BORO{
+    width: 100%;
+    height: 100%;
+}
+.mrbean{
+    width: 100%;
+    height: 100%;
+}
+.lagaa{
+    background: #eee;
+}
+.content{
+    width: 400px;
+    background: #fff;
+    padding: 20px;
+    padding-top: 0;
+    font-family: calibri;
+    font-size: 18px;
+    color: #444;
+    margin: 0 auto;
+
+    max-height: 270px;
+    overflow: hidden;
+}
+.content.open{
+    max-height: 1000px;
+}
+#medkue{
+    width: 90%;
+    height: 90%;
+}

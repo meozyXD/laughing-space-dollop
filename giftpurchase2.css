@@ -1,0 +1,33 @@
+#products{
+    width: 100%;
+    background-color:#cac7ff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.product{
+    width:200px;
+    height: 300px;
+    background-color:blueviolet
+}
+.productImage{
+width: 100px;
+height: auto;
+}
+.title{
+    color: green;
+    font-size: 30px;
+}
+#price{
+    color: red;
+}
+.a1{
+    width:200px;
+    height: 300px;
+    background-color:blueviolet
+}
+.a1Image{
+    width: 100px;
+    height: auto;
+}

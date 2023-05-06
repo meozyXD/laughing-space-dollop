@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.steve{
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+}
+.alex{
+    width: 100%;
+    height: 100vh;
+    background-color:aqua;
+    justify-content: center;
+    align-items: center;
+}
+#baby{
+    width: 100%;
+    height: 100%;
+}
